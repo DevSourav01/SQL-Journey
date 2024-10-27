@@ -1,0 +1,8 @@
+🚀 SQL Journey: Day 1 - Getting Started 🧑‍💻
+
+Today marks the beginning of my SQL learning journey! Covered some foundational topics to kick things off:
+
+🔄 CRUD operations for creating, reading, updating, and deleting data.
+💻 Installed MySQL and set up my environment.
+🏦 Explored the Entity-Relationship (ER) model focusing on a banking system.
+📊 Worked through a case study to solidify my understanding of database design.
